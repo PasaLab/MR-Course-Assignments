@@ -1,2 +1,2 @@
 # MR-Assignments
-Assignments for courses of MapReduce
+Assignments for courses of MapReduce@NJU
