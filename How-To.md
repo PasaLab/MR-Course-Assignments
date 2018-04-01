@@ -95,4 +95,6 @@ Congratulations, you have been one contributor of [Alluxio](https://github.com/A
 
 Don't forget to send your PR url to the teaching assistants. The PR url looks like `https://github.com/Alluxio/alluxio/pull/6982`
 
+*Your NJUID is also required to locate the related issue.*
+
 **For more intormation, refer to [Contributor Getting Started](https://www.alluxio.org/docs/master/en/Contributing-Getting-Started.html)**
