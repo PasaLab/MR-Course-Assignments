@@ -44,7 +44,7 @@ Learning how to participate in the open source projects by creating a pull reque
 |151220041|[#198](https://github.com/Alluxio/new-contributor-tasks/issues/198)| | |
 |151220042|[#199](https://github.com/Alluxio/new-contributor-tasks/issues/199)| | |
 |151220043|[#200](https://github.com/Alluxio/new-contributor-tasks/issues/200)| | |
-|151220045|[#201](https://github.com/Alluxio/new-contributor-tasks/issues/201)| | |
+|151220045|[#201](https://github.com/Alluxio/new-contributor-tasks/issues/201)| [#7018](https://github.com/Alluxio/alluxio/pull/7018) | Y |
 |151220046|[#202](https://github.com/Alluxio/new-contributor-tasks/issues/202)| | |
 |151220052|[#203](https://github.com/Alluxio/new-contributor-tasks/issues/203)| | |
 |151220053|[#204](https://github.com/Alluxio/new-contributor-tasks/issues/204)| | |
@@ -54,31 +54,24 @@ Learning how to participate in the open source projects by creating a pull reque
 |151220059|[#208](https://github.com/Alluxio/new-contributor-tasks/issues/208)| | |
 |151220063|[#209](https://github.com/Alluxio/new-contributor-tasks/issues/209)| | |
 |151220064|[#210](https://github.com/Alluxio/new-contributor-tasks/issues/210)| | |
-|151220066|[#211](https://github.com/Alluxio/new-contributor-tasks/issues/211)| | |
+|151220066|[#211](https://github.com/Alluxio/new-contributor-tasks/issues/211)| [#7011](https://github.com/Alluxio/alluxio/pull/7011) | Y |
 |151220067|[#212](https://github.com/Alluxio/new-contributor-tasks/issues/212)| | |
-|151220069|[#213](https://github.com/Alluxio/new-contributor-tasks/issues/213)| | |
 |151220070|[#214](https://github.com/Alluxio/new-contributor-tasks/issues/214)| | |
-|151220071|[#215](https://github.com/Alluxio/new-contributor-tasks/issues/215)| | |
 |151220072|[#216](https://github.com/Alluxio/new-contributor-tasks/issues/216)| | |
-|151220073|[#217](https://github.com/Alluxio/new-contributor-tasks/issues/217)| | |
 |151220074|[#218](https://github.com/Alluxio/new-contributor-tasks/issues/218)| | |
-|151220076|[#219](https://github.com/Alluxio/new-contributor-tasks/issues/219)| | |
 |151220077|[#220](https://github.com/Alluxio/new-contributor-tasks/issues/220)| | |
-|151220079|[#221](https://github.com/Alluxio/new-contributor-tasks/issues/221)| | |
 |151220081|[#222](https://github.com/Alluxio/new-contributor-tasks/issues/222)| | |
 |151220087|[#223](https://github.com/Alluxio/new-contributor-tasks/issues/223)| | |
-|151220088|[#224](https://github.com/Alluxio/new-contributor-tasks/issues/224)| | |
 |151220089|[#225](https://github.com/Alluxio/new-contributor-tasks/issues/225)| | |
-|151220097|[#226](https://github.com/Alluxio/new-contributor-tasks/issues/226)| | |
+|151220097|[#226](https://github.com/Alluxio/new-contributor-tasks/issues/226)| [#7014](https://github.com/Alluxio/alluxio/pull/7014) | |
 |151220099|[#227](https://github.com/Alluxio/new-contributor-tasks/issues/227)| | |
 |151220100|[#228](https://github.com/Alluxio/new-contributor-tasks/issues/228)| | |
 |151220101|[#229](https://github.com/Alluxio/new-contributor-tasks/issues/229)| | |
-|151220103|[#230](https://github.com/Alluxio/new-contributor-tasks/issues/230)| | |
 |151220104|[#231](https://github.com/Alluxio/new-contributor-tasks/issues/231)| | |
 |151220110|[#232](https://github.com/Alluxio/new-contributor-tasks/issues/232)| | |
 |151220112|[#233](https://github.com/Alluxio/new-contributor-tasks/issues/233)| | |
 |151220113|[#234](https://github.com/Alluxio/new-contributor-tasks/issues/234)| | |
-|151220114|[#235](https://github.com/Alluxio/new-contributor-tasks/issues/235)| | |
+|151220114|[#235](https://github.com/Alluxio/new-contributor-tasks/issues/235)| [#7013](https://github.com/Alluxio/alluxio/pull/7013) | Y |
 |151220116|[#236](https://github.com/Alluxio/new-contributor-tasks/issues/236)| | |
 |151220117|[#237](https://github.com/Alluxio/new-contributor-tasks/issues/237)| | |
 |151220123|[#238](https://github.com/Alluxio/new-contributor-tasks/issues/238)| | |
@@ -104,6 +97,13 @@ Coming soon~
 
 | NJUID | Issue | PR link | Merged |
 |---|---|---|---|
+| 151220069 | | | |
+| 151220071 | | | |
+| 151220073 | | | |
+| 151220076 | | | |
+| 151220079 | | | |
+| 151220088 | | | |
+| 151220103 | | | |
 | 151220145 | | | |
 | 151220146 | | | |
 | 151220147 | | | |
