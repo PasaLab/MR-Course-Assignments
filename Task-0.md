@@ -7,6 +7,8 @@ Learning how to participate in the open source projects by creating a pull reque
 ## Step(s)
 [Steps to create a PR](How-To.md)
 
+[常见错误](Errors.md)
+
 **Please read this guide first, even if you known how to create a PR**
 
 ## Tasks
