@@ -40,7 +40,7 @@ Learning how to participate in the open source projects by creating a pull reque
 |151220031|[#192](https://github.com/Alluxio/new-contributor-tasks/issues/192)| | |
 |151220033|[#193](https://github.com/Alluxio/new-contributor-tasks/issues/193)| | |
 |151220035|[#194](https://github.com/Alluxio/new-contributor-tasks/issues/194)| | |
-|151220036|[#195](https://github.com/Alluxio/new-contributor-tasks/issues/195)| [#7026](https://github.com/Alluxio/alluxio/pull/7026) | |
+|151220036|[#195](https://github.com/Alluxio/new-contributor-tasks/issues/195)| [#7034](https://github.com/Alluxio/alluxio/pull/7034) | |
 |151220038|[#196](https://github.com/Alluxio/new-contributor-tasks/issues/196)| | |
 |151220040|[#197](https://github.com/Alluxio/new-contributor-tasks/issues/197)| | |
 |151220041|[#198](https://github.com/Alluxio/new-contributor-tasks/issues/198)| | |
@@ -98,31 +98,31 @@ Coming soon~
 
 | NJUID | Issue | PR link | Merged |
 |---|---|---|---|
-| 151220069 | | | |
-| 151220071 | | | |
-| 151220073 | | | |
-| 151220076 | | | |
-| 151220079 | | | |
-| 151220088 | | | |
-| 151220097 | | | |
-| 151220103 | | | |
-| 151220145 | | | |
-| 151220146 | | | |
-| 151220147 | | | |
-| 151220149 | | | |
-| 151220150 | | | |
-| 151220151 | | | |
-| 151220152 | | | |
-| 151220153 | | | |
-| 151220154 | | | |
-| 151220155 | | | |
-| 151220156 | | | |
-| 151220157 | | | |
-| 151220158 | | | |
-| 151220160 | | | |
-| 151220161 | | | |
-| 151220162 | | | |
-| 151220164 | | | |
+| 151220069 |[#84](https://github.com/Alluxio/new-contributor-tasks/issues/84)| | |
+| 151220071 |[#80](https://github.com/Alluxio/new-contributor-tasks/issues/80)| | |
+| 151220073 |[#79](https://github.com/Alluxio/new-contributor-tasks/issues/79)| | |
+| 151220076 |[#78](https://github.com/Alluxio/new-contributor-tasks/issues/78)| | |
+| 151220079 |[#77](https://github.com/Alluxio/new-contributor-tasks/issues/77)| | |
+| 151220088 |[#76](https://github.com/Alluxio/new-contributor-tasks/issues/76)| | |
+| 151220097 |[#75](https://github.com/Alluxio/new-contributor-tasks/issues/75)| | |
+| 151220103 |[#74](https://github.com/Alluxio/new-contributor-tasks/issues/74)| | |
+| 151220145 |[#73](https://github.com/Alluxio/new-contributor-tasks/issues/73)| | |
+| 151220146 |[#72](https://github.com/Alluxio/new-contributor-tasks/issues/72)| | |
+| 151220147 |[#71](https://github.com/Alluxio/new-contributor-tasks/issues/71)| | |
+| 151220149 |[#70](https://github.com/Alluxio/new-contributor-tasks/issues/54)| | |
+| 151220150 |[#54](https://github.com/Alluxio/new-contributor-tasks/issues/54)| | |
+| 151220151 |[#17](https://github.com/Alluxio/new-contributor-tasks/issues/17)| | |
+| 151220152 |[#16](https://github.com/Alluxio/new-contributor-tasks/issues/16)| | |
+| 151220153 |[#15](https://github.com/Alluxio/new-contributor-tasks/issues/15)| | |
+| 151220154 |[#13](https://github.com/Alluxio/new-contributor-tasks/issues/13)| | |
+| 151220155 |[#12](https://github.com/Alluxio/new-contributor-tasks/issues/12)| | |
+| 151220156 |[#11](https://github.com/Alluxio/new-contributor-tasks/issues/11)| | |
+| 151220157 |[#10](https://github.com/Alluxio/new-contributor-tasks/issues/10)| | |
+| 151220158 |[#9](https://github.com/Alluxio/new-contributor-tasks/issues/9)  | | |
+| 151220160 |[#8](https://github.com/Alluxio/new-contributor-tasks/issues/8)  | | |
+| 151220161 |[#7](https://github.com/Alluxio/new-contributor-tasks/issues/7)  | | |
+| 151220162 |[#6](https://github.com/Alluxio/new-contributor-tasks/issues/6)  | | |
+| 151220164 |[#241](https://github.com/Alluxio/new-contributor-tasks/issues/241)| | |
 | 151220165 | | | |
 | 151220169 | | | |
 | 151220170 | | | |
