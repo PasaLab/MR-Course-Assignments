@@ -17,3 +17,6 @@ Alluxio 是 AMPLab 发起的流行开源项目，不是实验室的玩具项目�
 <img alt="bad example" src="img/bad-example-2.png" style="max-width: 600px">
 
 由于 ignore 文件无法随便修改，所以如果 IDE 自动生成的配置文件等没有被忽略，请重置 commit ，并手动选择改动进行提交。一般而言，涉及的改动没有文件的增删，所以直接用 `git commit -am '简要描述改动'` 提交改动即可。
+
+## 3. 原 PR 出现问题后，关闭原有 PR，重新创建 PR
+每个 PR 都会花费维护人员的精力，请尽量在原有的 PR 上修改代码（push 到相同的分支即可），这样维护者可以根据上下文快速的review，尽量避免发起一堆 PR 。
