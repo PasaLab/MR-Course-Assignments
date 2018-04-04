@@ -87,7 +87,10 @@ The first time you contribute to Alluxio, you have to sign a contribution licens
 
 When you create a pull request, a bot named `alluxio-bot` will ask you to sign the agreement, click the link provided and follow the guides to finish the agreement.
 
-#### 12. Provide your Pull Request url to the teaching assistants
+## 12. Watch the PR and response from bots & collaborators
+Sometimes, there may be some problems with your changes such as code style, watch the PR until it is merged.
+
+## 13. Provide your Pull Request url to the teaching assistants
 
 When your pull request is merged into the origin project, it means your changes are accepted.
 
