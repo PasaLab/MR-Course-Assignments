@@ -115,7 +115,7 @@ Coming soon~
 | 151220152 |[#16](https://github.com/Alluxio/new-contributor-tasks/issues/16)| | |
 | 151220153 |[#15](https://github.com/Alluxio/new-contributor-tasks/issues/15)| | |
 | 151220154 |[#13](https://github.com/Alluxio/new-contributor-tasks/issues/13)| | |
-| 151220155 |[#12](https://github.com/Alluxio/new-contributor-tasks/issues/12)| | |
+| 151220155 |[#12](https://github.com/Alluxio/new-contributor-tasks/issues/12)| [#7060](https://github.com/Alluxio/alluxio/pull/7060)| |
 | 151220156 |[#11](https://github.com/Alluxio/new-contributor-tasks/issues/11)| | |
 | 151220157 |[#10](https://github.com/Alluxio/new-contributor-tasks/issues/10)| | |
 | 151220158 |[#9](https://github.com/Alluxio/new-contributor-tasks/issues/9)  | | |
