@@ -98,7 +98,7 @@ Coming soon~
 
 | NJUID | Issue | PR link | Merged |
 |---|---|---|---|
-| 151220069 |[#84](https://github.com/Alluxio/new-contributor-tasks/issues/84)| [#7058](https://github.com/Alluxio/alluxio/pull/7058)| |
+| 151220069 |[#84](https://github.com/Alluxio/new-contributor-tasks/issues/84)| [#7058](https://github.com/Alluxio/alluxio/pull/7058)| Y |
 | 151220071 |[#80](https://github.com/Alluxio/new-contributor-tasks/issues/80)| | |
 | 151220073 |[#79](https://github.com/Alluxio/new-contributor-tasks/issues/79)| | |
 | 151220076 |[#78](https://github.com/Alluxio/new-contributor-tasks/issues/78)| | |
