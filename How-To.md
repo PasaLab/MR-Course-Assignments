@@ -54,7 +54,7 @@ git merge upstream/master
 ## 8. Validating the code style etc.
 
 ```bash
-mvn clean install
+mvn clean install -DskipTests
 ```
 
 You shall see SUCCESS if all checks pass
