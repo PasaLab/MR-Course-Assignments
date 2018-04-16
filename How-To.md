@@ -92,7 +92,7 @@ Sometimes, there may be some problems with your changes such as code style, watc
 
 ## 13. Provide your Pull Request url to the teaching assistants
 
-When your pull request is merged into the origin project, it means your changes are accepted.
+When your pull request is **merged** (not *open*) into the origin project, it means your changes are accepted.
 
 Congratulations, you have been one contributor of [Alluxio](https://github.com/Alluxio/alluxio) !
 
