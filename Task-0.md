@@ -65,7 +65,7 @@ Learning how to participate in the open source projects by creating a pull reque
 |151220081|[#222](https://github.com/Alluxio/new-contributor-tasks/issues/222)| | |
 |151220087|[#223](https://github.com/Alluxio/new-contributor-tasks/issues/223)| | |
 |151220089|[#225](https://github.com/Alluxio/new-contributor-tasks/issues/225)| | |
-|151220099|[#227](https://github.com/Alluxio/new-contributor-tasks/issues/227)| | |
+|151220099|[#227](https://github.com/Alluxio/new-contributor-tasks/issues/227)| [#7157](https://github.com/Alluxio/alluxio/pull/7157)| Y |
 |151220100|[#228](https://github.com/Alluxio/new-contributor-tasks/issues/228)| [#7015](https://github.com/Alluxio/alluxio/pull/7015)| Y |
 |151220101|[#229](https://github.com/Alluxio/new-contributor-tasks/issues/229)| [#7035](https://github.com/Alluxio/alluxio/pull/7035)| Y |
 |151220104|[#231](https://github.com/Alluxio/new-contributor-tasks/issues/231)| | |
