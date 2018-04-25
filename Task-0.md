@@ -29,14 +29,14 @@ Learning how to participate in the open source projects by creating a pull reque
 |151220015|[#181](https://github.com/Alluxio/new-contributor-tasks/issues/181)| [#7027](https://github.com/Alluxio/alluxio/pull/7027)| Y |
 |151220017|[#182](https://github.com/Alluxio/new-contributor-tasks/issues/182)| [#7067](https://github.com/Alluxio/alluxio/pull/7067)| Y |
 |151220019|[#183](https://github.com/Alluxio/new-contributor-tasks/issues/183)| [#7065](https://github.com/Alluxio/alluxio/pull/7065)| Y |
-|151220020|[#184](https://github.com/Alluxio/new-contributor-tasks/issues/184)| | |
+|151220020|[#184](https://github.com/Alluxio/new-contributor-tasks/issues/184)| [#7175](https://github.com/Alluxio/alluxio/pull/7175)| Y |
 |151220021|[#185](https://github.com/Alluxio/new-contributor-tasks/issues/185)| [#7165](https://github.com/Alluxio/alluxio/pull/7165)| Y |
 |151220022|[#186](https://github.com/Alluxio/new-contributor-tasks/issues/186)| [#7180](https://github.com/Alluxio/alluxio/pull/7180)| Y |
 |151220023|[#187](https://github.com/Alluxio/new-contributor-tasks/issues/187)| [#7069](https://github.com/Alluxio/alluxio/pull/7069)| Y |
 |151220025|[#188](https://github.com/Alluxio/new-contributor-tasks/issues/188)| | |
 |151220026|[#189](https://github.com/Alluxio/new-contributor-tasks/issues/189)| [#7164](https://github.com/Alluxio/alluxio/pull/7164)| Y |
 |151220028|[#190](https://github.com/Alluxio/new-contributor-tasks/issues/190)| [#7122](https://github.com/Alluxio/alluxio/pull/7122)| Y |
-|151220029|[#191](https://github.com/Alluxio/new-contributor-tasks/issues/191)| | |
+|151220029|[#191](https://github.com/Alluxio/new-contributor-tasks/issues/191)| [#7207](https://github.com/Alluxio/alluxio/pull/7207)| |
 |151220031|[#192](https://github.com/Alluxio/new-contributor-tasks/issues/192)| | |
 |151220033|[#193](https://github.com/Alluxio/new-contributor-tasks/issues/193)| | |
 |151220035|[#194](https://github.com/Alluxio/new-contributor-tasks/issues/194)| [#7184](https://github.com/Alluxio/alluxio/pull/7184)| Y |
