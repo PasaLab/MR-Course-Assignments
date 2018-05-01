@@ -19,7 +19,7 @@ Learning how to participate in the open source projects by creating a pull reque
 |---|---|---|---|
 |151220001|[#172](https://github.com/Alluxio/new-contributor-tasks/issues/172)| | |
 |151220004|[#173](https://github.com/Alluxio/new-contributor-tasks/issues/173)| [#7148](https://github.com/Alluxio/alluxio/pull/7148)| Y |
-|151220005|[#174](https://github.com/Alluxio/new-contributor-tasks/issues/174)| [#7203](https://github.com/Alluxio/alluxio/pull/7203)| |
+|151220005|[#174](https://github.com/Alluxio/new-contributor-tasks/issues/174)| [#7203](https://github.com/Alluxio/alluxio/pull/7203)| Y |
 |151220007|[#175](https://github.com/Alluxio/new-contributor-tasks/issues/175)| [#7050](https://github.com/Alluxio/alluxio/pull/7050)| Y |
 |151220008|[#176](https://github.com/Alluxio/new-contributor-tasks/issues/176)| [#7188](https://github.com/Alluxio/alluxio/pull/7188)| Y |
 |151220009|[#177](https://github.com/Alluxio/new-contributor-tasks/issues/177)| [#7095](https://github.com/Alluxio/alluxio/pull/7095)| Y |
@@ -36,7 +36,7 @@ Learning how to participate in the open source projects by creating a pull reque
 |151220025|[#188](https://github.com/Alluxio/new-contributor-tasks/issues/188)| [#7174](https://github.com/Alluxio/alluxio/pull/7174)| Y |
 |151220026|[#189](https://github.com/Alluxio/new-contributor-tasks/issues/189)| [#7164](https://github.com/Alluxio/alluxio/pull/7164)| Y |
 |151220028|[#190](https://github.com/Alluxio/new-contributor-tasks/issues/190)| [#7122](https://github.com/Alluxio/alluxio/pull/7122)| Y |
-|151220029|[#191](https://github.com/Alluxio/new-contributor-tasks/issues/191)| [#7210](https://github.com/Alluxio/alluxio/pull/7210)| |
+|151220029|[#191](https://github.com/Alluxio/new-contributor-tasks/issues/191)| [#7210](https://github.com/Alluxio/alluxio/pull/7210)| Y |
 |151220031|[#192](https://github.com/Alluxio/new-contributor-tasks/issues/192)| | |
 |151220033|[#193](https://github.com/Alluxio/new-contributor-tasks/issues/193)| | |
 |151220035|[#194](https://github.com/Alluxio/new-contributor-tasks/issues/194)| [#7184](https://github.com/Alluxio/alluxio/pull/7184)| Y |
@@ -63,13 +63,13 @@ Learning how to participate in the open source projects by creating a pull reque
 |151220074|[#218](https://github.com/Alluxio/new-contributor-tasks/issues/218)| [#7117](https://github.com/Alluxio/alluxio/pull/7117)| Y |
 |151220077|[#220](https://github.com/Alluxio/new-contributor-tasks/issues/220)| | |
 |151220081|[#222](https://github.com/Alluxio/new-contributor-tasks/issues/222)| | |
-|151220087|[#223](https://github.com/Alluxio/new-contributor-tasks/issues/223)| [#7192](https://github.com/Alluxio/alluxio/pull/7192)| |
+|151220087|[#223](https://github.com/Alluxio/new-contributor-tasks/issues/223)| [#7192](https://github.com/Alluxio/alluxio/pull/7192)| Y |
 |151220089|[#225](https://github.com/Alluxio/new-contributor-tasks/issues/225)| | |
 |151220099|[#227](https://github.com/Alluxio/new-contributor-tasks/issues/227)| [#7157](https://github.com/Alluxio/alluxio/pull/7157)| Y |
 |151220100|[#228](https://github.com/Alluxio/new-contributor-tasks/issues/228)| [#7015](https://github.com/Alluxio/alluxio/pull/7015)| Y |
 |151220101|[#229](https://github.com/Alluxio/new-contributor-tasks/issues/229)| [#7035](https://github.com/Alluxio/alluxio/pull/7035)| Y |
 |151220104|[#231](https://github.com/Alluxio/new-contributor-tasks/issues/231)| [#7191](https://github.com/Alluxio/alluxio/pull/7191)| Y |
-|151220110|[#232](https://github.com/Alluxio/new-contributor-tasks/issues/232)| [#7224](https://github.com/Alluxio/alluxio/pull/7224)| |
+|151220110|[#232](https://github.com/Alluxio/new-contributor-tasks/issues/232)| [#7224](https://github.com/Alluxio/alluxio/pull/7224)| Y |
 |151220112|[#233](https://github.com/Alluxio/new-contributor-tasks/issues/233)| [#7028](https://github.com/Alluxio/alluxio/pull/7028)| Y |
 |151220113|[#234](https://github.com/Alluxio/new-contributor-tasks/issues/234)| [#7043](https://github.com/Alluxio/alluxio/pull/7043)| Y |
 |151220114|[#235](https://github.com/Alluxio/new-contributor-tasks/issues/235)| [#7013](https://github.com/Alluxio/alluxio/pull/7013)| Y |
@@ -88,7 +88,7 @@ Learning how to participate in the open source projects by creating a pull reque
 |151220136|[#166](https://github.com/Alluxio/new-contributor-tasks/issues/166)| [#7185](https://github.com/Alluxio/alluxio/pull/7185)| Y |
 |151220137|[#167](https://github.com/Alluxio/new-contributor-tasks/issues/167)| [#7033](https://github.com/Alluxio/alluxio/pull/7033)| Y |
 |151220138|[#168](https://github.com/Alluxio/new-contributor-tasks/issues/168)| [#7100](https://github.com/Alluxio/alluxio/pull/7100)| Y |
-|151220139|[#169](https://github.com/Alluxio/new-contributor-tasks/issues/169)| [#7222](https://github.com/Alluxio/alluxio/pull/7222)| |
+|151220139|[#169](https://github.com/Alluxio/new-contributor-tasks/issues/169)| [#7222](https://github.com/Alluxio/alluxio/pull/7222)| Y |
 |151220142|[#170](https://github.com/Alluxio/new-contributor-tasks/issues/170)| [#7054](https://github.com/Alluxio/alluxio/pull/7054)| Y |
 |151220143|[#171](https://github.com/Alluxio/new-contributor-tasks/issues/171)| [#7042](https://github.com/Alluxio/alluxio/pull/7042)| Y |
 
@@ -123,10 +123,10 @@ Learning how to participate in the open source projects by creating a pull reque
 | 151220162 |[#6](https://github.com/Alluxio/new-contributor-tasks/issues/6)  | | |
 | 151220164 |[#241](https://github.com/Alluxio/new-contributor-tasks/issues/241)| | |
 | 151220165 |[#243](https://github.com/Alluxio/new-contributor-tasks/issues/243)| | |
-| 151220169 |[#245](https://github.com/Alluxio/new-contributor-tasks/issues/245)| [#7194](https://github.com/Alluxio/alluxio/pull/7194)| |
+| 151220169 |[#245](https://github.com/Alluxio/new-contributor-tasks/issues/245)| [#7194](https://github.com/Alluxio/alluxio/pull/7194)| Y |
 | 151220170 |[#246](https://github.com/Alluxio/new-contributor-tasks/issues/246)| | |
 | 151220171 |[#247](https://github.com/Alluxio/new-contributor-tasks/issues/247)| [#7092](https://github.com/Alluxio/alluxio/pull/7092)| Y |
-| 151220172 |[#248](https://github.com/Alluxio/new-contributor-tasks/issues/248)| [#7195](https://github.com/Alluxio/alluxio/pull/7195)| |
+| 151220172 |[#248](https://github.com/Alluxio/new-contributor-tasks/issues/248)| [#7195](https://github.com/Alluxio/alluxio/pull/7195)| Y |
 | 151220174 |[#249](https://github.com/Alluxio/new-contributor-tasks/issues/249)| | |
 | 151220175 |[#250](https://github.com/Alluxio/new-contributor-tasks/issues/250)| | |
 | 151220177 |[#251](https://github.com/Alluxio/new-contributor-tasks/issues/252)| [#7208](https://github.com/Alluxio/alluxio/pull/7208)| Y |
