@@ -17,7 +17,7 @@ Learning how to participate in the open source projects by creating a pull reque
 
 | NJUID | Issue | PR link | Merged |
 |---|---|---|---|
-|151220001|[#172](https://github.com/Alluxio/new-contributor-tasks/issues/172)| [#7351](https://github.com/Alluxio/alluxio/pull/7351)| |
+|151220001|[#172](https://github.com/Alluxio/new-contributor-tasks/issues/172)| [#7375](https://github.com/Alluxio/alluxio/pull/7375)| Y |
 |151220004|[#173](https://github.com/Alluxio/new-contributor-tasks/issues/173)| [#7148](https://github.com/Alluxio/alluxio/pull/7148)| Y |
 |151220005|[#174](https://github.com/Alluxio/new-contributor-tasks/issues/174)| [#7203](https://github.com/Alluxio/alluxio/pull/7203)| Y |
 |151220007|[#175](https://github.com/Alluxio/new-contributor-tasks/issues/175)| [#7050](https://github.com/Alluxio/alluxio/pull/7050)| Y |
