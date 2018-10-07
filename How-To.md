@@ -75,7 +75,7 @@ git push origin smallfix
 
 <img alt="pr" src="img/pr-2.png" style="width:600px" />
 
-**Notice: Your PR title must be started with [SMALLFIX], or you will get error msg like this**
+**Notice: Your PR title must be started with [SMALLFIX] or [DOCFIX], or you will get error msg like this**
 
 <img alt="invalid PR title" src="img/invalid-title.png" style="width:600px" />
 
@@ -90,13 +90,15 @@ When you create a pull request, a bot named `alluxio-bot` will ask you to sign t
 ## 12. Watch the PR and response from bots & collaborators
 Sometimes, there may be some problems with your changes such as code style, watch the PR until it is merged.
 
-## 13. Provide your Pull Request url to the teaching assistants
+## 13. Report your PR link after merged
 
 When your pull request is **merged** (not *open*) into the origin project, it means your changes are accepted.
 
 Congratulations, you have been one contributor of [Alluxio](https://github.com/Alluxio/alluxio) !
 
-Don't forget to send your PR url to the teaching assistants. The PR url looks like `https://github.com/Alluxio/alluxio/pull/6982`
+Don't forget to report your PR url. The PR url looks like `https://github.com/Alluxio/alluxio/pull/6982`
+
+Please report your PR url [here](https://github.com/PasaLab/MR-Course-Assignments/issues/new), with title format {{ YOUR PR URL HERE }}, and fill your NJUID in the textarea, thank your for your corporation.
 
 *Your NJUID is also required to locate the related issue.*
 
