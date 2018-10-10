@@ -35,7 +35,7 @@ Learning how to participate in the open source projects by creating a pull reque
 |MF1833022|[#280](https://github.com/Alluxio/new-contributor-tasks/issues/280)| - |  |
 |MF1833024|[#281](https://github.com/Alluxio/new-contributor-tasks/issues/281)| - |  |
 |MF1833025|[#282](https://github.com/Alluxio/new-contributor-tasks/issues/282)| - |  |
-|MF1833029|[#283](https://github.com/Alluxio/new-contributor-tasks/issues/283)| - |  |
+|MF1833029|[#283](https://github.com/Alluxio/new-contributor-tasks/issues/283)| [7943](https://github.com/Alluxio/alluxio/pull/7943) | Y |
 |MF1833031|[#284](https://github.com/Alluxio/new-contributor-tasks/issues/284)| - |  |
 |MF1833035|[#285](https://github.com/Alluxio/new-contributor-tasks/issues/285)| - |  |
 |MF1833037|[#286](https://github.com/Alluxio/new-contributor-tasks/issues/286)| - |  |
@@ -79,7 +79,7 @@ Learning how to participate in the open source projects by creating a pull reque
 |MG1833014|[#324](https://github.com/Alluxio/new-contributor-tasks/issues/324)| - |  |
 |MG1833015|[#325](https://github.com/Alluxio/new-contributor-tasks/issues/325)| - |  |
 |MG1833016|[#326](https://github.com/Alluxio/new-contributor-tasks/issues/326)| - |  |
-|MG1833018|[#327](https://github.com/Alluxio/new-contributor-tasks/issues/327)| - |  |
+|MG1833018|[#327](https://github.com/Alluxio/new-contributor-tasks/issues/327)| [7944](https://github.com/Alluxio/alluxio/pull/7944) | Y |
 |MG1833021|[#328](https://github.com/Alluxio/new-contributor-tasks/issues/328)| - |  |
 |MG1833025|[#329](https://github.com/Alluxio/new-contributor-tasks/issues/329)| - |  |
 |MG1833029|[#330](https://github.com/Alluxio/new-contributor-tasks/issues/330)| - |  |
@@ -130,17 +130,18 @@ Learning how to participate in the open source projects by creating a pull reque
 |dz1833022|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/369)| - |  |
 |mf1733034|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/370)| - |  |
 |mf1833063|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/371)| - |  |
-|mf1833084|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/372)| - |  |
-|mf1833087|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/373)| - |  |
-|mg1833024|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/374)| - |  |
-|mg1833038|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/375)| - |  |
-|mg1833039|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/376)| - |  |
-|mg1833058|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/377)| - |  |
-|mg1833059|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/378)| - |  |
-|mg1833063|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/379)| - |  |
-|mg1833082|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/380)| - |  |
-|mg1833097|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/381)| - |  |
-|mp1833028|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/382)| - |  |
+|mf1833067|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/372)| - |  |
+|mf1833084|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/373)| - |  |
+|mf1833087|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/374)| - |  |
+|mg1833024|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/375)| - |  |
+|mg1833038|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/376)| - |  |
+|mg1833039|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/377)| - |  |
+|mg1833058|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/378)| - |  |
+|mg1833059|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/379)| - |  |
+|mg1833063|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/380)| - |  |
+|mg1833082|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/381)| - |  |
+|mg1833097|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/382)| - |  |
+|mp1833028|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/383)| - |  |
 
 
 ## Frequently asked questions
