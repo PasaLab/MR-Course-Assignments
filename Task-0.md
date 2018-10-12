@@ -66,18 +66,18 @@ Learning how to participate in the open source projects by creating a pull reque
 |MF1833097|[#311](https://github.com/Alluxio/new-contributor-tasks/issues/311)| - |  |
 |MF1833098|[#312](https://github.com/Alluxio/new-contributor-tasks/issues/312)| - |  |
 |MF1833099|[#313](https://github.com/Alluxio/new-contributor-tasks/issues/313)| - |  |
-|MF1833102|[#314](https://github.com/Alluxio/new-contributor-tasks/issues/314)| - |  |
+|MF1833102|[#314](https://github.com/Alluxio/new-contributor-tasks/issues/314)| [#7946](https://github.com/Alluxio/alluxio/pull/7946) | Y |
 |MF1833103|[#315](https://github.com/Alluxio/new-contributor-tasks/issues/315)| - |  |
 |MF1833109|[#316](https://github.com/Alluxio/new-contributor-tasks/issues/316)| - |  |
 |MG1729091|[#317](https://github.com/Alluxio/new-contributor-tasks/issues/317)| - |  |
 |MG1802175|[#318](https://github.com/Alluxio/new-contributor-tasks/issues/318)| - |  |
 |MG1802201|[#319](https://github.com/Alluxio/new-contributor-tasks/issues/319)| - |  |
-|MG1833008|[#320](https://github.com/Alluxio/new-contributor-tasks/issues/320)| - |  |
+|MG1833008|[#320](https://github.com/Alluxio/new-contributor-tasks/issues/320)| [#7947](https://github.com/Alluxio/alluxio/pull/7947) | Y |
 |MG1833010|[#321](https://github.com/Alluxio/new-contributor-tasks/issues/321)| - |  |
 |MG1833011|[#322](https://github.com/Alluxio/new-contributor-tasks/issues/322)| - |  |
 |MG1833012|[#323](https://github.com/Alluxio/new-contributor-tasks/issues/323)| - |  |
 |MG1833014|[#324](https://github.com/Alluxio/new-contributor-tasks/issues/324)| - |  |
-|MG1833015|[#325](https://github.com/Alluxio/new-contributor-tasks/issues/325)| - |  |
+|MG1833015|[#325](https://github.com/Alluxio/new-contributor-tasks/issues/325)| [#7957](https://github.com/Alluxio/alluxio/pull/7957) | Y |
 |MG1833016|[#326](https://github.com/Alluxio/new-contributor-tasks/issues/326)| - |  |
 |MG1833018|[#327](https://github.com/Alluxio/new-contributor-tasks/issues/327)| [#7944](https://github.com/Alluxio/alluxio/pull/7944) | Y |
 |MG1833021|[#328](https://github.com/Alluxio/new-contributor-tasks/issues/328)| - |  |
