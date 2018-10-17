@@ -99,53 +99,53 @@ Learning how to participate in the open source projects by creating a pull reque
 |MG1833046|[#338](https://github.com/Alluxio/new-contributor-tasks/issues/338)| - |  |
 |MG1833049|[#339](https://github.com/Alluxio/new-contributor-tasks/issues/339)| - |  |
 |MG1833053|[#340](https://github.com/Alluxio/new-contributor-tasks/issues/340)| - |  |
-|MG1833056|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/341)| - |  |
-|MG1833057|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/342)| - |  |
-|MG1833060|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/343)| - |  |
-|MG1833061|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/344)| - |  |
-|MG1833064|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/345)| - |  |
-|MG1833065|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/346)| - |  |
-|MG1833067|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/347)| - |  |
-|MG1833068|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/348)| - |  |
-|MG1833073|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/349)| - |  |
-|MG1833074|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/350)| - |  |
-|MG1833076|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/351)| - |  |
-|MG1833078|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/352)| - |  |
-|MG1833080|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/353)| - |  |
-|MG1833081|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/354)| - |  |
-|MG1833085|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/355)| - |  |
-|MG1833091|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/356)| - |  |
-|MG1833093|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/357)| - |  |
-|MG1833094|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/358)| - |  |
-|MG1833095|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/359)| - |  |
-|MG1833501|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/360)| - |  |
-|MP1833001|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/361)| - |  |
-|MP1833019|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/362)| - |  |
-|MP1833033|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/363)| - |  |
-|MP1833037|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/364)| - |  |
-|MP1833038|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/365)| - |  |
-|MP1833047|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/366)| - |  |
-|MP1833051|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/367)| - |  |
-|dz1833007|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/368)| - |  |
-|dz1833022|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/369)| - |  |
-|mf1733034|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/370)| - |  |
-|mf1833063|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/371)| - |  |
-|mf1833067|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/372)| - |  |
-|mf1833084|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/373)| - |  |
-|mf1833087|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/374)| - |  |
-|mg1833024|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/375)| - |  |
-|mg1833038|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/376)| - |  |
-|mg1833039|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/377)| - |  |
-|mg1833058|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/378)| - |  |
-|mg1833059|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/379)| - |  |
-|mg1833063|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/380)| - |  |
-|mg1833082|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/381)| - |  |
-|mg1833097|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/382)| - |  |
-|mp1833028|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/383)| - |  |
-|mg1833027|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/384)| - |  |
-|mg1833083|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/385)| - |  |
-|mf1833091|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/385)| - |  |
-|mf1833076|[#2](https://github.com/Alluxio/new-contributor-tasks/issues/385)| - |  |
+|MG1833056|[#341](https://github.com/Alluxio/new-contributor-tasks/issues/341)| - |  |
+|MG1833057|[#342](https://github.com/Alluxio/new-contributor-tasks/issues/342)| - |  |
+|MG1833060|[#343](https://github.com/Alluxio/new-contributor-tasks/issues/343)| - |  |
+|MG1833061|[#344](https://github.com/Alluxio/new-contributor-tasks/issues/344)| - |  |
+|MG1833064|[#345](https://github.com/Alluxio/new-contributor-tasks/issues/345)| - |  |
+|MG1833065|[#346](https://github.com/Alluxio/new-contributor-tasks/issues/346)| - |  |
+|MG1833067|[#347](https://github.com/Alluxio/new-contributor-tasks/issues/347)| - |  |
+|MG1833068|[#348](https://github.com/Alluxio/new-contributor-tasks/issues/348)| - |  |
+|MG1833073|[#349](https://github.com/Alluxio/new-contributor-tasks/issues/349)| - |  |
+|MG1833074|[#350](https://github.com/Alluxio/new-contributor-tasks/issues/350)| - |  |
+|MG1833076|[#351](https://github.com/Alluxio/new-contributor-tasks/issues/351)| - |  |
+|MG1833078|[#352](https://github.com/Alluxio/new-contributor-tasks/issues/352)| - |  |
+|MG1833080|[#353](https://github.com/Alluxio/new-contributor-tasks/issues/353)| - |  |
+|MG1833081|[#354](https://github.com/Alluxio/new-contributor-tasks/issues/354)| - |  |
+|MG1833085|[#355](https://github.com/Alluxio/new-contributor-tasks/issues/355)| - |  |
+|MG1833091|[#356](https://github.com/Alluxio/new-contributor-tasks/issues/356)| - |  |
+|MG1833093|[#357](https://github.com/Alluxio/new-contributor-tasks/issues/357)| - |  |
+|MG1833094|[#358](https://github.com/Alluxio/new-contributor-tasks/issues/358)| - |  |
+|MG1833095|[#359](https://github.com/Alluxio/new-contributor-tasks/issues/359)| - |  |
+|MG1833501|[#360](https://github.com/Alluxio/new-contributor-tasks/issues/360)| - |  |
+|MP1833001|[#361](https://github.com/Alluxio/new-contributor-tasks/issues/361)| - |  |
+|MP1833019|[#362](https://github.com/Alluxio/new-contributor-tasks/issues/362)| - |  |
+|MP1833033|[#363](https://github.com/Alluxio/new-contributor-tasks/issues/363)| - |  |
+|MP1833037|[#364](https://github.com/Alluxio/new-contributor-tasks/issues/364)| - |  |
+|MP1833038|[#365](https://github.com/Alluxio/new-contributor-tasks/issues/365)| - |  |
+|MP1833047|[#366](https://github.com/Alluxio/new-contributor-tasks/issues/366)| - |  |
+|MP1833051|[#367](https://github.com/Alluxio/new-contributor-tasks/issues/367)| - |  |
+|dz1833007|[#368](https://github.com/Alluxio/new-contributor-tasks/issues/368)| - |  |
+|dz1833022|[#369](https://github.com/Alluxio/new-contributor-tasks/issues/369)| - |  |
+|mf1733034|[#370](https://github.com/Alluxio/new-contributor-tasks/issues/370)| - |  |
+|mf1833063|[#371](https://github.com/Alluxio/new-contributor-tasks/issues/371)| - |  |
+|mf1833067|[#372](https://github.com/Alluxio/new-contributor-tasks/issues/372)| - |  |
+|mf1833084|[#373](https://github.com/Alluxio/new-contributor-tasks/issues/373)| - |  |
+|mf1833087|[#374](https://github.com/Alluxio/new-contributor-tasks/issues/374)| - |  |
+|mg1833024|[#375](https://github.com/Alluxio/new-contributor-tasks/issues/375)| - |  |
+|mg1833038|[#376](https://github.com/Alluxio/new-contributor-tasks/issues/376)| - |  |
+|mg1833039|[#377](https://github.com/Alluxio/new-contributor-tasks/issues/377)| - |  |
+|mg1833058|[#378](https://github.com/Alluxio/new-contributor-tasks/issues/378)| - |  |
+|mg1833059|[#379](https://github.com/Alluxio/new-contributor-tasks/issues/379)| - |  |
+|mg1833063|[#380](https://github.com/Alluxio/new-contributor-tasks/issues/380)| - |  |
+|mg1833082|[#381](https://github.com/Alluxio/new-contributor-tasks/issues/381)| - |  |
+|mg1833097|[#382](https://github.com/Alluxio/new-contributor-tasks/issues/382)| - |  |
+|mp1833028|[#383](https://github.com/Alluxio/new-contributor-tasks/issues/383)| - |  |
+|mg1833027|[#384](https://github.com/Alluxio/new-contributor-tasks/issues/384)| - |  |
+|mg1833083|[#385](https://github.com/Alluxio/new-contributor-tasks/issues/385)| - |  |
+|mf1833091|[#386](https://github.com/Alluxio/new-contributor-tasks/issues/386)| - |  |
+|mf1833076|[#387](https://github.com/Alluxio/new-contributor-tasks/issues/387)| - |  |
 
 
 ## Frequently asked questions
@@ -174,8 +174,8 @@ It does exist since Alluxio is a popular project. If your task has already been 
 
 **It usually takes several days to review your changes, so you'd better start early.**
 
-**If you have any problem, please post it [here](https://github.com/PasaLab/MR-Course-Assignments/issues/new), Chinese is allowed here.**
+**If you have any problem, please post it [here](https://github.com/PasaLab/MR-Course-Assignments/issues/new?template=question-template.md), Chinese is allowed here.**
 
-**Most of the time, the issues shall be replied with a workday.**
+**Most of the time, the issues shall be replied in one workday.**
 
 **QQ is only for private use, so there will be no response for your messages**

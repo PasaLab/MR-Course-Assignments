@@ -98,8 +98,6 @@ Congratulations, you have been one contributor of [Alluxio](https://github.com/A
 
 Don't forget to report your PR url. The PR url looks like `https://github.com/Alluxio/alluxio/pull/6982`
 
-Please report your PR url [here](https://github.com/PasaLab/MR-Course-Assignments/issues/new), with title format {{ YOUR PR URL HERE }}, and fill your NJUID in the textarea, thank your for your corporation.
+Please report your PR url [here](https://github.com/PasaLab/MR-Course-Assignments/issues/new?template=report-template.md), with title format {{ YOUR PR URL HERE }}, thank you for your corporation.
 
-*Your NJUID is also required to locate the related issue.*
-
-**For more intormation, refer to [Contributor Getting Started](https://www.alluxio.org/docs/master/en/Contributing-Getting-Started.html)**
+**For more information, refer to [Contributor Getting Started](https://www.alluxio.org/docs/master/en/Contributing-Getting-Started.html)**
