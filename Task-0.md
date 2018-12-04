@@ -127,11 +127,11 @@ Learning how to participate in the open source projects by creating a pull reque
 |dz1833007|[#368](https://github.com/Alluxio/new-contributor-tasks/issues/368)| [#8085](https://github.com/Alluxio/alluxio/pull/8085) | Y |
 |dz1833022|[#369](https://github.com/Alluxio/new-contributor-tasks/issues/369)| [#8077](https://github.com/Alluxio/alluxio/pull/8077) | Y |
 |mf1733034|[#370](https://github.com/Alluxio/new-contributor-tasks/issues/370)| [#8063](https://github.com/Alluxio/alluxio/pull/8063) | Y |
-|mf1833063|[#371](https://github.com/Alluxio/new-contributor-tasks/issues/371)| - |  |
+|mf1833063|[#371](https://github.com/Alluxio/new-contributor-tasks/issues/371)| [#8065](https://github.com/Alluxio/alluxio/pull/8065) | Y |
 |mf1833067|[#372](https://github.com/Alluxio/new-contributor-tasks/issues/372)| [#8100](https://github.com/Alluxio/alluxio/pull/8100) | Y |
 |mf1833084|[#373](https://github.com/Alluxio/new-contributor-tasks/issues/373)| [#8023](https://github.com/Alluxio/alluxio/pull/8023) | Y |
 |mf1833087|[#374](https://github.com/Alluxio/new-contributor-tasks/issues/374)| [#8048](https://github.com/Alluxio/alluxio/pull/8048) | Y |
-|mg1833024|[#375](https://github.com/Alluxio/new-contributor-tasks/issues/375)| - |  |
+|mg1833024|[#375](https://github.com/Alluxio/new-contributor-tasks/issues/375)| [#8036](https://github.com/Alluxio/alluxio/pull/8036) | Y |
 |mg1833038|[#376](https://github.com/Alluxio/new-contributor-tasks/issues/376)| [#8025](https://github.com/Alluxio/alluxio/pull/8025) | Y |
 |mg1833039|[#377](https://github.com/Alluxio/new-contributor-tasks/issues/377)| [#8149](https://github.com/Alluxio/alluxio/pull/8149) | Y |
 |mg1833058|[#378](https://github.com/Alluxio/new-contributor-tasks/issues/378)| - |  |
@@ -142,10 +142,10 @@ Learning how to participate in the open source projects by creating a pull reque
 |mp1833028|[#383](https://github.com/Alluxio/new-contributor-tasks/issues/383)| - |  |
 |mg1833027|[#384](https://github.com/Alluxio/new-contributor-tasks/issues/384)| [#8045](https://github.com/Alluxio/alluxio/pull/8045) | Y |
 |mg1833083|[#385](https://github.com/Alluxio/new-contributor-tasks/issues/385)| - |  |
-|mf1833091|[#386](https://github.com/Alluxio/new-contributor-tasks/issues/386)| - |  |
+|mf1833091|[#386](https://github.com/Alluxio/new-contributor-tasks/issues/386)| [#8173](https://github.com/Alluxio/alluxio/pull/8173) |  |
 |mf1833076|[#387](https://github.com/Alluxio/new-contributor-tasks/issues/387)| - |  |
 |mf1833011|[#388](https://github.com/Alluxio/new-contributor-tasks/issues/388)| - |  |
-|dz1833027|[#389](https://github.com/Alluxio/new-contributor-tasks/issues/389)| - |  |
+|dz1833027|[#389](https://github.com/Alluxio/new-contributor-tasks/issues/389)| [#8175](https://github.com/Alluxio/alluxio/pull/8175) |  |
 |MP1833033|[#390](https://github.com/Alluxio/new-contributor-tasks/issues/390)| [#8104](https://github.com/Alluxio/alluxio/pull/8104) | N |
 |MG1833061|[#391](https://github.com/Alluxio/new-contributor-tasks/issues/391)| [#8134](https://github.com/Alluxio/alluxio/pull/8134) | Y |
 |MP1833032|[PASA](http://pasa-bigdata.nju.edu.cn/research_people.html)| [#7777](https://github.com/Alluxio/alluxio/pull/7777) | Y |
