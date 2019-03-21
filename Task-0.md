@@ -14,7 +14,7 @@ Learning how to participate in the open source projects by creating a pull reque
 
 ## Tasks
 
-#### Part 1 (Due: 1/6/2019)
+#### Part 1 (Due: 21/4/2019)
 
 | NJUID | Issue | PR link | Merged |
 |---|---|---|---|
@@ -72,7 +72,7 @@ Learning how to participate in the open source projects by creating a pull reque
 |161220167|[#450](https://github.com/Alluxio/new-contributor-tasks/issues/450)| - | - |
 
 
-#### Part 2 (Due: 15/6/2019)
+#### Part 2 (Due: To Be published)
 
 | NJUID | Issue | PR link | Merged |
 |---|---|---|---|
@@ -125,6 +125,11 @@ Learning how to participate in the open source projects by creating a pull reque
 |161220042|[#497](https://github.com/Alluxio/new-contributor-tasks/issues/497)| - | - |
 |161220043|[#498](https://github.com/Alluxio/new-contributor-tasks/issues/498)| - | - |
 |161220046|[#499](https://github.com/Alluxio/new-contributor-tasks/issues/499)| - | - |
+
+#### Part 3 (Due: To Be published)
+
+| NJUID | Issue | PR link | Merged |
+|---|---|---|---|
 |161220047|[#500](https://github.com/Alluxio/new-contributor-tasks/issues/500)| - | - |
 |161220048|[#501](https://github.com/Alluxio/new-contributor-tasks/issues/501)| - | - |
 |161220051|[#502](https://github.com/Alluxio/new-contributor-tasks/issues/502)| - | - |
