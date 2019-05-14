@@ -188,7 +188,7 @@ Learning how to participate in the open source projects by creating a pull reque
 
 
 
-## Frequently asked questions
+## Frequently asked Questions
 
 #### How to resolve the conflicts?
 
@@ -214,8 +214,8 @@ It does exist since Alluxio is a popular project. If your task has already been 
 
 **It usually takes several days to review your changes, so you'd better start early.**
 
-**If you have any problem, please post it [here](https://github.com/PasaLab/MR-Course-Assignments/issues/new?template=question-template.md), Chinese is allowed here.**
+**If you have any problem, feel free to post it [here](https://github.com/PasaLab/MR-Course-Assignments/issues/new?template=question-template.md) (Chinese is allowed).**
 
 **Most of the time, the issues shall be replied in one workday.**
 
-**QQ is only for private use, so there will be no response for your messages**
+**QQ is only for private use, so there will be no response for your questions**
