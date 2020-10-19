@@ -1,6 +1,8 @@
 ## Demo Task
 类别：　删除无用注释
+
 位置： `pkg/utils/kubectl/configmap.go`
+
 内容：　删除方法`func kubectl`上的注释，该注释与 `func SaveConfigMapToFile` 重复，是无用注释
 
 
@@ -16,13 +18,13 @@
 
 3. 点击右上角的Fork，将该仓库Fork到自己的Github账号下：
 
-    ![forked_repo](forked_repo.png)
+    ![forked_repo](img/forked_repo.png)
 
 4. git clone **自己账号下的项目**
 
     首先点击**自己账号下的项目页面**的Code，复制git repo url:
 
-    ![git_clone_url](git_clone_url.png)
+    ![git_clone_url](img/git_clone_url.png)
 
     接着在本机的某个目录下执行：
     ```
@@ -167,7 +169,7 @@ git checkout -b remove_redundant_comment
 
 6. Pull Request
 
-    ![Where to PR](where_to_pr.png)
+    ![Where to PR](img/where_to_pr.png)
 
     点击Pull Request，在新页面中选择自己改动后的分支(e.g. remove_redundant_comment)
 
@@ -187,13 +189,13 @@ git checkout -b remove_redundant_comment
 
     如果Reviewer认为你的改动存在问题，将会在相应的地方给出修改建议，并要求重新修改(Request Change):
 
-    ![request_change](request_change.png)
+    ![request_change](img/request_change.png)
 
     这意味着你需要重复2到4步，**大部分情况下无需rebase**，push到该PR对应的自己项目仓库下的分支上
 
     如果Reviewer认为你的改动没问题，那么通常会在该PR上留言：
 
-    ![lgtm](lgtm.png)
+    ![lgtm](img/lgtm.png)
 
     "lgtm"为 “Looks good to me"的简称，代表该PR可以被合并，
 
