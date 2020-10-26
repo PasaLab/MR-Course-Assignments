@@ -356,27 +356,27 @@ Task可分为以下两种不同类型：
 
 ### Task 64
 类别： 方法注释规范化
-位置： `pkg/utils/kubeclient.go`
+位置： `pkg/utils/kubeclient/pod.go`
 内容： 将`func DeletePod`上的注释规范化
 
 ### Task 65
 类别： 方法注释规范化
-位置： `pkg/utils/kubeclient.go`
+位置： `pkg/utils/kubeclient/pod.go`
 内容： 将`func GetPodByName`上的注释规范化
 
 ### Task 66
 类别： 方法注释规范化
-位置： `pkg/utils/kubeclient.go`
+位置： `pkg/utils/kubeclient/exec.go`
 内容： 将`func ExecShellInContainer`上的注释规范化
 
 ### Task 67
 类别： 方法注释规范化
-位置： `pkg/utils/kubeclient.go`
+位置： `pkg/utils/kubeclient/exec.go`
 内容： 将`func ExecCommandInContainer`上的注释规范化
 
 ### Task 68
 类别： 方法注释规范化
-位置： `pkg/utils/kubeclient.go`
+位置： `pkg/utils/kubeclient/exec.go`
 内容： 将`func ExecCommandInPod`上的注释规范化
 
 ### Task 69
