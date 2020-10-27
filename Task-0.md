@@ -18,7 +18,7 @@ Learning how to participate in the open source projects by creating a pull reque
 
 | NJUID | Task | PR link | Merged | Score |
 |---|---|---|---|---|
-17124051 |[#59](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-59) | - | - | 0 |
+171240513 |[#59](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-59) | - | - | 0 |
 DG20330036 |[#35](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-35) | - | - | 0 |
 DZ20330014 |[#44](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-44) | - | - | 0 |
 DZ20330021 |[#60](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-60) | - | - | 0 |
@@ -30,7 +30,7 @@ MF20330006 |[#39](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-202
 MF20330007 |[#16](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-16) | - | - | 0 |
 MF20330010 |[#27](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-27) | - | - | 0 |
 MF20330011 |[#10](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-10) | - | - | 0 |
-MF20330013 |[#63](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-63) | - | - | 0 |
+MF20330013 |[#63](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-63) | [#272](https://github.com/fluid-cloudnative/fluid/pull/272) | N | 0 |
 MF20330016 |[#67](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-67) | - | - | 0 |
 MF20330020 |[#1](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-1) | - | - | 0 |
 MF20330023 |[#57](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-57) | - | - | 0 |
