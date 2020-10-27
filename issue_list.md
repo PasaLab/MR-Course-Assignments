@@ -191,32 +191,32 @@ Task可分为以下两种不同类型：
 
 ### Task 37
 类别： Struct注释规范化
-位置： `pkg/ddc/engine.go`
+位置： `pkg/ddc/alluxio/engine.go`
 内容： 将`type AlluxioEngine struct`上的注释规范化
 
 ### Task 38
 类别： 方法注释规范化
-位置： `pkg/ddc/engine.go`
+位置： `pkg/ddc/alluxio/engine.go`
 内容： 将`func Build`上的注释规范化
 
 ### Task 39
 类别： 方法注释规范化
-位置： `pkg/ddc/master.go`
+位置： `pkg/ddc/alluxio/master.go`
 内容： 将`func CheckMasterReady`上的注释规范化
 
 ### Task 40
 类别： 方法注释规范化
-位置： `pkg/ddc/master.go`
+位置： `pkg/ddc/alluxio/master.go`
 内容： 将`func SetupMaster`上的注释规范化
 
 ### Task 41
 类别： 方法注释规范化
-位置： `pkg/ddc/worker.go`
+位置： `pkg/ddc/alluxio/worker.go`
 内容： 将`func SetupWorker`上的注释规范化
 
 ### Task 42
 类别： 方法注释规范化
-位置： `pkg/ddc/worker.go`
+位置： `pkg/ddc/alluxio/worker.go`
 内容： 将`func CheckWorkersReady`上的注释规范化
 
 ### Task 43
