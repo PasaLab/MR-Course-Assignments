@@ -23,12 +23,12 @@ DG20330036 |[#35](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-202
 DZ20330014 |[#44](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-44) | - | - | 0 |
 DZ20330021 |[#60](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-60) | - | - | 0 |
 DZ20330029 |[#41](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-41) | - | - | 0 |
-DZ20330043 |[#8](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-8) | [ #268](https://github.com/fluid-cloudnative/fluid/pull/268) | N | 0 |
+DZ20330043 |[#8](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-8) | [ #268](https://github.com/fluid-cloudnative/fluid/pull/268) | Y | 0 |
 MF20330001 |[#9](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-9) | - | - | 0 |
 MF20330003 |[#13](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-13) | - | - | 0 |
 MF20330006 |[#39](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-39) | - | - | 0 |
 MF20330007 |[#16](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-16) | - | - | 0 |
-MF20330010 |[#27](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-27) | - | - | 0 |
+MF20330010 |[#27](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-27) | [#282](https://github.com/fluid-cloudnative/fluid/pull/282) | N | 0 |
 MF20330011 |[#10](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-10) | - | - | 0 |
 MF20330013 |[#63](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-63) | [#272](https://github.com/fluid-cloudnative/fluid/pull/272) | N | 0 |
 MF20330016 |[#67](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-67) | - | - | 0 |
@@ -40,7 +40,7 @@ MF20330032 |[#55](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-202
 MF20330035 |[#36](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-36) | - | - | 0 |
 MF20330036 |[#17](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-17) | - | - | 0 |
 MF20330040 |[#7](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-7) | - | - | 0 |
-MF20330049 |[#18](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-18) | - | - | 0 |
+MF20330049 |[#18](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-18) | [#265](https://github.com/fluid-cloudnative/fluid/pull/265#issue-509854555) | N | 0 |
 MF20330052 |[#74](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-74) | - | - | 0 |
 MF20330053 |[#49](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-49) | - | - | 0 |
 MF20330057 |[#34](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-34) | - | - | 0 |
@@ -54,13 +54,13 @@ MF20330078 |[#25](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-202
 MF20330080 |[#28](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-28) | - | - | 0 |
 MF20330087 |[#54](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-54) | - | - | 0 |
 MF20330088 |[#75](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-75) | - | - | 0 |
-MF20330097 |[#32](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-32) | - | - | 0 |
+MF20330097 |[#32](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-32) | [#281](https://github.com/fluid-cloudnative/fluid/pull/281) | Y | 0 |
 MF20330099 |[#4](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-4) | - | - | 0 |
 MF20330101 |[#47](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-47) | - | - | 0 |
 MF20330103 |[#14](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-14) | - | - | 0 |
 MF20330106 |[#19](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-19) | - | - | 0 |
 MF20330110 |[#68](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-68) | - | - | 0 |
-MF20330112 |[#65](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-65) | [#267](https://github.com/fluid-cloudnative/fluid/pull/267) | N | 0 |
+MF20330112 |[#65](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-65) | [#267](https://github.com/fluid-cloudnative/fluid/pull/267) | Y | 0 |
 MF20330119 |[#45](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-45) | - | - | 0 |
 MF20330122 |[#11](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-11) | - | - | 0 |
 MF20330127 |[#26](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-26) | - | - | 0 |
@@ -87,10 +87,10 @@ MG20330070 |[#3](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020
 MG20330073 |[#48](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-48) | - | - | 0 |
 MG20330077 |[#51](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-51) | - | - | 0 |
 MG20330078 |[#23](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-23) | - | - | 0 |
-MG20330081 |[#33](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-33) | - | - | 0 |
+MG20330081 |[#33](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-33) | [#274](https://github.com/fluid-cloudnative/fluid/pull/274#pullrequestreview-517446807) | Y | 0 |
 MG20330088 |[#53](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-53) | - | - | 0 |
 MG20330093 |[#46](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-46) | - | - | 0 |
-MG20330094 |[#5](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-5) | [#269](https://github.com/fluid-cloudnative/fluid/pull/269) | N | 0 |
+MG20330094 |[#5](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-5) | [#269](https://github.com/fluid-cloudnative/fluid/pull/269) | Y | 0 |
 MG20330095 |[#70](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-70) | - | - | 0 |
 MP1933031 |[#24](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-24) | - | - | 0 |
 
