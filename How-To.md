@@ -69,6 +69,16 @@
 
     ```
 
+### 创建新Issue
+
+1. 在[Fluid项目Issue子页面](https://github.com/fluid-cloudnative/fluid/issues)选择页面右边的"New Issue"
+
+2. 选择“Document Defect”作为模板
+
+3. 在Issue编辑页面，简单描述待解决的问题（例如：某处的某方法注释不规范等），在模板的对应位置按照自己的Task填入信息
+
+4. 提交Issue
+
 ### 本地修改
 
 1. 创建新的本地分支
@@ -166,7 +176,6 @@ git checkout -b remove_redundant_comment
     ```
     上述命令将会提交到你自己的远程仓库，也就是名为origin的remote，这也是你拥有写权限的仓库。如果直接提交到`upstream` remote将会因为权限问题被拒绝
 
-
 6. Pull Request
 
     ![Where to PR](img/where_to_pr.png)
@@ -175,7 +184,7 @@ git checkout -b remove_redundant_comment
 
     **此时，你可以最后一次Review自己提交的commit，以及所做的改动**
 
-    按照Pull Request模板进行填写，PR标题简述改动内容，PR中按照模板提示进行填写。
+    按照Pull Request模板进行填写，PR标题简述改动内容，PR中按照模板提示进行填写，在“Does this pull request fix one issue”的部分中，填写你刚才提交的Issue的编号，例如，提交的Issue编号为#123，那么此处写 Fixes #123，Github会将该PR自动链接到该Issue上，当该PR被合并到Master分支之后，对应的Issue也将自动关闭
 
     全部填写完成后，提交这个PR。
 
