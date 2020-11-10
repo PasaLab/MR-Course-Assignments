@@ -121,22 +121,22 @@ Task可分为以下两种不同类型：
 ### Task 23
 ~类别： 方法注释规范化
 位置： `pkg/utils/dataload.go`
-内容： 将方法`func GetDataLoad`上的注释规范化~
+内容： 将方法`func GetDataLoad`上的注释规范化~(该Task已删除)
 
 ### Task 24
 ~类别： 方法注释规范化
 位置： `pkg/utils/dataload.go`
-内容： 将方法`func FindDataLoadWithPredicate`上的注释规范化~
+内容： 将方法`func FindDataLoadWithPredicate`上的注释规范化~(该Task已删除)
 
 ### Task 25
 ~类别： 方法注释规范化
 位置： `pkg/utils/dataload.go`
-内容： 将方法`func NewReleaseName`上的注释规范化~
+内容： 将方法`func NewReleaseName`上的注释规范化~(该Task已删除)
 
 ### Task 26
 ~类别： 方法注释规范化
 位置： `pkg/utils/dataload.go`
-内容： 将方法`func GetJobNameFromReleaseName`上的注释规范化~
+内容： 将方法`func GetJobNameFromReleaseName`上的注释规范化~(该Task已删除)
 
 
 ### Task 27
