@@ -92,7 +92,7 @@ MG20330088 |[#53](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-202
 MG20330093 |[#46](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-46) | [#450](https://github.com/fluid-cloudnative/fluid/pull/450) | Y | 0 |
 MG20330094 |[#5](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-5) | [#269](https://github.com/fluid-cloudnative/fluid/pull/269) | Y | 0 |
 MG20330095 |[#70](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-70) | - | - | 0 |
-MP1933031 |[#77](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-77) | - | - | 0 |
+MP1933031 |[#77](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md#task-77) | [#391](https://github.com/fluid-cloudnative/fluid/pull/391) | Y | 0 |
 
 
 
