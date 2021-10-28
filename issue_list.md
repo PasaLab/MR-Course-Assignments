@@ -2,7 +2,7 @@
 本次实验的主要内容是给每个任务中对应位置的文件添加Apache许可证。
 
 如果一个项目想要采用Apache 2.0 许可证，需要在项目文件中添加如下的通告声明：
-```aidl
+```
  
    Licensed under the Apache License, Version 2.0 (the "License"); 
  you may not use this file except in compliance with the License. 
@@ -18,7 +18,7 @@
 每个任务需要完成的内容是将上述内容以**注释**的形式添加到对应位置文件的开头部分。
 
 例如`pkg/utils/dataset/lifecycle/node_test.go`文件的开头内容原本为
-```aidl
+```
    
 package lifecycle
 
