@@ -86,7 +86,7 @@ It does exist since Alluxio is a popular project. If your task has already been 
 
 **It usually takes several days to review your changes, so you'd better start early.**
 
-**If you have any problem, feel free to post it [here](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2020/issue_list.md###task-1/issues/new?template=question-template.md) (Chinese is allowed).**
+**If you have any problem, feel free to post it [here](https://github.com/PasaLab/MR-Course-Assignments/blob/fall-2021/issue_list.md###task-1/issues/new?template=question-template.md) (Chinese is allowed).**
 
 **Most of the time, the issues shall be replied in one workday.**
 
