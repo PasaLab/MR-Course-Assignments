@@ -1,10 +1,4 @@
 ## Demo Task
-类别：　删除无用注释
-
-位置： `pkg/utils/kubectl/configmap.go`
-
-内容：　删除方法`func kubectl`上的注释，该注释与 `func SaveConfigMapToFile` 重复，是无用注释
-
 
 ## 贡献流程
 
