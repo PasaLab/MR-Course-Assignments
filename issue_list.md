@@ -357,14 +357,14 @@ import (
 
 内容： 在该文件头部添加许可证通告声明信息
 
-### Task 41
+<!--### Task 41
 类别：文件嵌入许可证通告声明信息
 
 位置：`pkg/ddc/alluxio/transform_api_gateway.go`
 
 内容： 在该文件头部添加许可证通告声明信息
 
-<!-- ### Task 42
+### Task 42
 类别：文件嵌入许可证通告声明信息
 
 位置：`pkg/ddc/alluxio/transform_api_gateway.go`
