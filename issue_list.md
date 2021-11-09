@@ -3,7 +3,6 @@
 
 如果一个项目想要采用Apache 2.0 许可证，需要在项目文件中添加如下的通告声明：
 ```
- 
    Licensed under the Apache License, Version 2.0 (the "License"); 
  you may not use this file except in compliance with the License. 
  You may obtain a copy of the License at 
@@ -18,7 +17,7 @@
 每个任务需要完成的内容是将上述内容以**注释**的形式添加到对应位置文件的开头部分。
 
 例如`pkg/utils/dataset/lifecycle/node_test.go`文件的开头内容原本为
-```
+```go
    
 package lifecycle
 
@@ -39,7 +38,7 @@ import (
 )
 ```
 你需要将通告声明以**注释**的形式添加到该文件的开头。内容如下：
-```aidl
+```go
 /*
 
 Licensed under the Apache License, Version 2.0 (the "License");
