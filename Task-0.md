@@ -83,7 +83,7 @@ The PR shall be updated automatically.
 
 #### Related issue has been solved?
 
-It does exist since Alluxio is a popular project. If your task has already been solved, contact the teaching assistants for a new one.
+It does exist since Fluid is a popular project. If your task has already been solved, contact the teaching assistants for a new one.
 
 ## Notice(s)
 
