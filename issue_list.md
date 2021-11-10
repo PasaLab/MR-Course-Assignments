@@ -3,7 +3,7 @@
 
 如果一个项目想要采用Apache 2.0 许可证，需要在项目文件中添加如下的通告声明：
 ```
-copyright <year> The <project-name> author .
+Copyright <year> The <project-name> Author.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
