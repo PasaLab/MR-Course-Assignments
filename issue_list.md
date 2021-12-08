@@ -360,31 +360,31 @@ import (
 
 内容： 在该文件头部添加许可证通告声明信息
 
-<!--### Task 41
+<!--### Task 41 师兄已经完成
 类别：文件嵌入许可证通告声明信息
 
 位置：`pkg/ddc/alluxio/transform_api_gateway.go`
 
 内容： 在该文件头部添加许可证通告声明信息
 
-### Task 42
+### Task 42 师兄已经完成
 类别：文件嵌入许可证通告声明信息
 
 位置：`pkg/ddc/alluxio/transform_api_gateway.go`
 
 内容： 在该文件头部添加许可证通告声明信息
 
-### Task 43
+### Task 43 师兄已经完成
 类别：文件嵌入许可证通告声明信息
 
-位置：`pkg/ddc/alluxio/transform_api_gateway_test.go`
+位置：`pkg/ddc/alluxio/transform_hadoop_config.go`
 
 内容： 在该文件头部添加许可证通告声明信息
 
 ### Task 44
 类别：文件嵌入许可证通告声明信息
 
-位置：`pkg/ddc/alluxio/transform_hadoop_config.go`
+位置：`pkg/ddc/alluxio/transform_api_gateway_test.go`
 
 内容： 在该文件头部添加许可证通告声明信息
 
