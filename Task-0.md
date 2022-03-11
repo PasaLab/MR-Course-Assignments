@@ -176,7 +176,7 @@ This occurs when another PR is merged and your base code version is not up to da
 ```bash
 git fetch upstream
 
-git merge upstream/master
+git rebase upstream/master
 
 # resolve conflicts
 
